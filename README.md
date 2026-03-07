@@ -287,19 +287,19 @@ Python, PyTorch, OpenCV
 
 - T. Weber, S. Schneeberger, P. Schuetz, “Estimating Heterogeneous Treatment Effects of
 Building Energy Efficiency Retrofits Using Machine Learning,” Energy Build., Aug. 2025,
-https://doi.org/10.1016/j.enbuild.2025.116369.
+[https://doi.org/10.1016/j.enbuild.2025.116369](https://doi.org/10.1016/j.enbuild.2025.116369).
 - F. Wadehn, T. Weber, D. J. Mack, et al., “Model-Based Separation, Detection, and
 Classification of Eye Movements,” IEEETans. Biomed. Eng., Feb. 2020,
-https://doi.org/10.1109/TBME.2019.2918986.
+[https://doi.org/10.1109/TBME.2019.2918986](https://doi.org/10.1109/TBME.2019.2918986).
 - F. Wadehn, T. Weber, and H.-A. Loeliger, “State space models with dynamical and
 sparse variances,” Europ. Signal Proc. Conf. (EUSIPCO), Sept. 2019,
-https://doi.org/10.23919/EUSIPCO.2019.8902815.
+[https://doi.org/10.23919/EUSIPCO.2019.8902815](https://doi.org/10.23919/EUSIPCO.2019.8902815).
 - Z. Bjelobrk, P. M. Piaggi, T. Weber, T. Karmakar, M. Mazzotti and M. Parrinello,
 “Naphthalene crystal shape prediction from moleculardynamics simulations,” Cryst. Eng.
-Comm., April 2019, https://doi.org/10.1039/C9CE00380K.
+Comm., April 2019, [https://doi.org/10.1039/C9CE00380K](https://doi.org/10.1039/C9CE00380K).
 - F. Wadehn, D. J. Mack, T. Weber, and H.-A. Loeliger, “Estimation of neural inputs and
 detection of saccades and smooth pursuit eye movements by sparse Bayesian learning,”
 Int. Conf. IEEEEng. Med. Biol. Soc. (EMBC), Hawaii, July 2018,
-https://doi.org/10.1109/EMBC.2018.8512758.
+[https://doi.org/10.1109/EMBC.2018.8512758](https://doi.org/10.1109/EMBC.2018.8512758).
 
 [Jump to top](#portfolio-thilo-weber)
