@@ -18,13 +18,13 @@ Hi, my name is Thilo and I am an experienced **Machine Learning Engineer** & **D
 - [Energy efficiency monitoring & treatment effect estimation](#energy-efficiency-monitoring-and-treatment-effect-estimation)
 - [Energy and CO2 Monitoring for municipalities](#energy-and-co2-monitoring-for-municipalities)
 - [Model-based signal processing with sparse, half-space, and box constraints](#model-based-signal-processing-with-sparse-or-half-space-or-box-constraints)
-- [Machine learning-based lead generator & recommender system](#machine-learning-based-lead-generator-and–recommender-system)
+- [Machine learning-based lead generator & recommender system](#machine-learning-based-lead-generator-and-recommender-system)
 - [Building renovation pressure & time-to-event prediction & survival analysis](#building-renovation-pressure-and-time-to-event-prediction-and-survival-analysis)
 - [PV detection & image segmentation from classification labels only](#image-segmentation-from-classification-labels-only)
 
 -----
 
-## Knowledge Management & AI Agents
+## Knowledge Management and AI Agents
 
 **Description:**
 
@@ -146,9 +146,9 @@ Python, Pandas, Scikit-Learn, PostgreSQL, PostGIS, Kubernetes, Hangfire
 - [Energie Reporter Methodology](https://energiereporter.energyapps.ch/methodology)
 - [Energie Reporter open data](https://opendata.swiss/en/dataset/energie-reporter)
 
-![Energie Reporter](/img/energiereporter.png)
-
 **Images:**
+
+![Energie Reporter](/img/energiereporter.png)
 
 [Jump to top](#portfolio-thilo-weber)
 
@@ -221,7 +221,7 @@ Python, Scikit-Learn
 
 -----
 
-## Building renovation pressure & time-to-event prediction & survival analysis
+## Building renovation pressure and time-to-event prediction and survival analysis
 
 **Description:**
 
