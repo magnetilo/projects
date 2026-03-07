@@ -11,7 +11,7 @@ Hi, my name is Thilo Weber and I am an experienced **machine learning engineer**
 
 -----
 
-## Example projects
+## Projects
 
 - [Knowledge management & AI agents](#knowledge-management-and-ai-agents)
 - [Parsing ustructured PDFs & information extraction from documents](#parsing-ustructured-pdfs-and-information-extraction-from-documents)
@@ -21,6 +21,7 @@ Hi, my name is Thilo Weber and I am an experienced **machine learning engineer**
 - [Machine learning-based lead generator & recommender system](#machine-learning-based-lead-generator-and-recommender-system)
 - [Building renovation pressure & time-to-event prediction & survival analysis](#building-renovation-pressure-and-time-to-event-prediction-and-survival-analysis)
 - [PV detection & image segmentation from classification labels only](#image-segmentation-from-classification-labels-only)
+- [Scientific publications](#scientific-publications)
 
 -----
 
@@ -280,4 +281,25 @@ Python, PyTorch, OpenCV
 
 [Jump to top](#portfolio-thilo-weber)
 
+-----
 
+## Scientific publications
+
+- T. Weber, S. Schneeberger, P. Schuetz, “Estimating Heterogeneous Treatment Effects of
+Building Energy Efficiency Retrofits Using Machine Learning,” Energy Build., Aug. 2025,
+https://doi.org/10.1016/j.enbuild.2025.116369.
+- F. Wadehn, T. Weber, D. J. Mack, et al., “Model-Based Separation, Detection, and
+Classification of Eye Movements,” IEEETans. Biomed. Eng., Feb. 2020,
+https://doi.org/10.1109/TBME.2019.2918986.
+- F. Wadehn, T. Weber, and H.-A. Loeliger, “State space models with dynamical and
+sparse variances,” Europ. Signal Proc. Conf. (EUSIPCO), Sept. 2019,
+https://doi.org/10.23919/EUSIPCO.2019.8902815.
+- Z. Bjelobrk, P. M. Piaggi, T. Weber, T. Karmakar, M. Mazzotti and M. Parrinello,
+“Naphthalene crystal shape prediction from moleculardynamics simulations,” Cryst. Eng.
+Comm., April 2019, https://doi.org/10.1039/C9CE00380K.
+- F. Wadehn, D. J. Mack, T. Weber, and H.-A. Loeliger, “Estimation of neural inputs and
+detection of saccades and smooth pursuit eye movements by sparse Bayesian learning,”
+Int. Conf. IEEEEng. Med. Biol. Soc. (EMBC), Hawaii, July 2018,
+https://doi.org/10.1109/EMBC.2018.8512758.
+
+[Jump to top](#portfolio-thilo-weber)
