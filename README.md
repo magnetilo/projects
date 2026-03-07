@@ -1,10 +1,10 @@
 # Portfolio Thilo Weber
 
-Hi, my name is Thilo and I am an experienced **Machine Learning Engineer** & **Data Scientist** with a strong background in **signal processing**, **machine learning** and **software engineering**; expertise in **data modeling**, **AI-powered process automation** and integration of **complex data sources**; experience in **academic research** as well as **industrial applications**, especially in **energy and building related data analytics** and the development of **innovative ML solutions**. I am a **creative developer** of data products and innovative solutions.
+Hi, my name is Thilo Weber and I am an experienced **machine learning engineer** & **data scientist** with a strong background in **signal processing**, **machine learning** and **software engineering**; expertise in **data modeling**, **AI-powered process automation** and integration of **complex data sources**; experience in **academic research** as well as **industrial applications**, especially in **energy and building related data analytics** and the development of **innovative ML solutions**. I am a **creative developer** of data products and innovative solutions.
 
 ## Focus and expertise
 
-- **Machine Learning & AI:** Development of ML models for signal processing, computer vision & predictive analytics
+- **Machine learning & AI:** Development of ML models for signal processing, computer vision & predictive analytics
 - **Data integration & geoinformation:** Automated data processing from over 30 sources, geodata analysis & visualization
 - **Software development & automation:** Creation of data-based applications, efficient model deployment in cloud environments
 - **Research & prototyping:** Experience in scientific research, development & publication of ML methods
@@ -13,7 +13,7 @@ Hi, my name is Thilo and I am an experienced **Machine Learning Engineer** & **D
 
 ## Example projects
 
-- [Knowledge Management & AI Agents](#knowledge-management-and-ai-agents)
+- [Knowledge management & AI agents](#knowledge-management-and-ai-agents)
 - [Parsing ustructured PDFs & information extraction from documents](#parsing-ustructured-pdfs-and-information-extraction-from-documents)
 - [Energy efficiency monitoring & treatment effect estimation](#energy-efficiency-monitoring-and-treatment-effect-estimation)
 - [Energy and CO2 Monitoring for municipalities](#energy-and-co2-monitoring-for-municipalities)
@@ -24,7 +24,7 @@ Hi, my name is Thilo and I am an experienced **Machine Learning Engineer** & **D
 
 -----
 
-## Knowledge Management and AI Agents
+## Knowledge management and AI agents
 
 **Description:**
 
