@@ -190,7 +190,7 @@ Matlab
 
 -----
 
-## Machine learning-based lead generator and recommender system
+## ML-based lead generator and Thompson Sampling
 
 **Description:**
 
@@ -198,9 +198,12 @@ At geoimpact, I developed a lead generator that suggests promising buildings for
 
 **Methods:**
 
-- **Thompson sampling:** This is a method for addressing the exploration- exploitation tradeoff in contextual bandit problems, where we want to maximise a certain reward (i.e., contacting the most promising building owners) and at the same time to continuously improve our model predicting the reward.
+- **Thompson sampling:** This is a method for addressing the exploration-exploitation tradeoff in contextual bandit problems, where we want to maximise a certain reward (i.e., contacting the most promising building owners) and at the same time to continuously improve our model predicting the reward.
 - **Extra trees classifier:** I used a simple implementation of Thompson sampling by sampling different trees of an extra tree classifier.
-- **Supervised clustering:** The extra tree classifier can also be used to create cluster of buildings that behave “similar” with respect to this sales-problem. These cluster were used for a stratified sampling approach that helps to enhance the diversity in the potential customer exploration. The plot below shows a similarity matrix clustered into ten clusters of “similar” buildings.
+  1. Train a Random Forest (RF) or an Extra Trees (ET) regressor with N trees.
+  2. Sample B times N_s trees, where B is the batch size and N_s < N is a subset of all trees.
+  3. Maximize (argmax) the target optimization function for all B "subforests" of N_s trees and evaluate the simulation or experiment at the B potential maximum arguments. Return to step 1.
+- **Supervised clustering:** The extra tree classifier can also be used to create cluster of buildings that behave “similar” with respect to this sales-problem. These cluster were used for a **stratified sampling** approach that helps to enhance the diversity in the potential customer exploration. The plot below shows a similarity matrix clustered into ten clusters of “similar” buildings.
 
 **Specials:**
 
