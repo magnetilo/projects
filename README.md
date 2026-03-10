@@ -163,7 +163,7 @@ In my Master’s thesis at ETH Zurich, I used statistical signal processing meth
 
 **Methods:**
 
-- **Factor graphs:** They are a powerful probabilistic framework for working with structured models and has many applications, e.g., state space models, image models, error correcting codes, optimal control.
+- **Factor graphs:** They are a powerful probabilistic framework for working with structured models and have many applications, e.g., state space models, image models, error correcting codes, optimal control.
 - **Sparse Bayesian learning:** This is a widely applicable and efficient method for modeling and estimating sparse (non-gaussian) priors in a probabilistic framework, which we applied to factor graphs.
 
 **Specials:**
